@@ -1,0 +1,17 @@
+.page-pagination {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center; }
+  .page-pagination span {
+    background: #fff;
+    padding: 10px;
+    cursor: pointer; }
+  .page-pagination a {
+    padding: 10px 20px;
+    background: #fff;
+    color: #444; }
+  .page-pagination .active {
+    color: #ffd83d; }
+
+/*# sourceMappingURL=paginator.css.map */
